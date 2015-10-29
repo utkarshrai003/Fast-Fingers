@@ -101,7 +101,7 @@
 
 <div id = "details">
      <div class="panel panel-default">
-     <div class="panel-heading"><center>NIKAL SAALE</center></div>
+     <div class="panel-heading"><center>hahahaha</center></div>
      <div class="panel-body">    	
      	<div class="form-group">
            <input class="form-control input-lg" id="name" type="text" placeholder="your name here"> 
